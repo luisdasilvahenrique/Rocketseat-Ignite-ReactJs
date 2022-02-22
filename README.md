@@ -16,7 +16,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 * **Diego Fernandes** - *Instrutor* - [Instrutor](https://github.com/diego3g)
-* **Luís Henrique** - *Aluno* - [Luís Henrique  ]()
+* **Luís Henrique** - *Aluno* - [Luís Henrique  ](https://github.com/luisdasilvahenrique)
 
 ## 🎁 Expressões de gratidão
 
