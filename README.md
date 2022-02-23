@@ -9,6 +9,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [Babel](https://babeljs.io) - O transcompilador JavaScript
 * [Webpack](https://webpack.js.org) - empacotador de módulos JavaScript
 * [ReactJs](https://pt-br.reactjs.org) - Framework de interfaces
+* [Sass](https://sass-lang.com/) - Estilzação
 
 
 ## ✒️ Autores
