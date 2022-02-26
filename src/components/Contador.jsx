@@ -5,7 +5,6 @@ const [conter, setCounter] = useState(0)
 
     function increment(){
         setCounter(conter + 1);
-        console.log('Incrementing')
     }
 
     return(
