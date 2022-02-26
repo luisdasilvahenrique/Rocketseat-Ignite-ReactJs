@@ -1,13 +1,9 @@
-import { Counter } from './components/Contador';
 import { RepositoryList } from './components/RepositoryList';
 import './styles/global.scss';
 
 export function App(){
     return(
-        // fragment
-        <>
+        // fragment é usado quando tem mais de um component <> </>
             <RepositoryList />
-            <Counter />
-        </>
     );
 }
